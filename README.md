@@ -28,6 +28,10 @@ python3 -m http.server 8080
 
 > `file://` 直開きでは ES Modules の読み込みが失敗する場合があります。
 
+## Tripo からの利用
+
+Tripo でモデル作成時に **VRM 1.0 Humanoid** を指定してリグ付けし、VRMとしてエクスポートしたモデルをそのまま読み込めます。VRMAは別途用意したものを **VRMAを追加** から読み込んでください。
+
 ## 対応モデル
 
 Tripo で **VRM 1.0 Humanoid** を指定してリグ付けした VRM で、読み込み・VRMA 再生・ポーズ操作を確認しています。
