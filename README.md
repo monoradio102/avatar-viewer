@@ -1,5 +1,7 @@
 # Avatar Viewer
 
+![Avatar Viewer demo](docs/demo.png)
+
 ブラウザで動く VRM / GLB / GLTF アバタービューワーです。
 
 [ライブデモを開く](https://gltf-studio.lab.monoradio.jp)
