@@ -1,6 +1,6 @@
 # Avatar Viewer
 
-![Avatar Viewer demo](docs/demo.png)
+![Avatar Viewer demo](docs/avator_demo.gif)
 
 ブラウザで動く VRM / GLB / GLTF アバタービューワーです。
 
